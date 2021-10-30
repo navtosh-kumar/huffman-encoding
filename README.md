@@ -1,2 +1,1 @@
-# CBHuffman
-CB Huffman
+# Huffman Encoding and Decoding
